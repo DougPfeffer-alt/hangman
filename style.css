@@ -62,7 +62,7 @@ body {
   font-size: 18px;
 }
 
-.wrappper{
+.wrappper {
   @include clear;
   width:100%;
   margin:0 auto;
